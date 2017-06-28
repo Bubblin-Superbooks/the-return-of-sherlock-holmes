@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "The Return of Sherlock Holmes",
-  "type": "text"
+  "type": "text",
+  "book_id": 462
 }
